@@ -3,6 +3,7 @@ layout: page
 title: "Customer Order Flow"
 category: doc
 date: 2015-10-03 13:39:21
+order: 1
 ---
 
 ## What <u>A hypothetical user</u> sees:
