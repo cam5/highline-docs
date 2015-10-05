@@ -193,21 +193,21 @@ Any order that's placed by a customer, or created by an AM is a "parent order".
 
 And order that's created via the `add products` action on the dashboard is a "child order"
 
-[apps-menu-item]: /img/apps-menu-item.jpg
-[order-manager-icon]: /img/order-manager-icon.jpg
-[order-manager-screen-1]: /img/order-manager-screen-1.jpg
-[order-search-bar]: /img/order-search-bar.jpg
-[filter-dropdown]: /img/filter-dropdown.jpg
-[order-manager-order-details]: /img/order-manager-order-details.gif
-[add-products-to-order]: /img/add-products-to-order.jpg
-[create-child-order]: /img/create-child-order.jpg
-[client-llama]: /img/llama-art.jpg
-[screen-charge]: /img/screen-charge.jpg
-[ink-charges]: /img/ink-charges.jpg
-[order-notes]: /img/order-notes.jpg
-[email-for-addtl-items]: /img/email-for-addtl-items.jpg
-[pending-surcharges]: /img/wow-so-neat-pending-surcharges.jpg
-[prepared-cart]: /img/customer-prepared-cart.jpg
-[changing-order-status]: /img/changing-order-status.gif
-[attaching-order-artwork]: /img/attaching-a-mockup.gif
-[capture-funds]: /img/capture-funds.jpg
+[apps-menu-item]: {{ site.baseurl }}/img/apps-menu-item.jpg
+[order-manager-icon]: {{ site.baseurl }}/img/order-manager-icon.jpg
+[order-manager-screen-1]: {{ site.baseurl }}/img/order-manager-screen-1.jpg
+[order-search-bar]: {{ site.baseurl }}/img/order-search-bar.jpg
+[filter-dropdown]: {{ site.baseurl }}/img/filter-dropdown.jpg
+[order-manager-order-details]: {{ site.baseurl }}/img/order-manager-order-details.gif
+[add-products-to-order]: {{ site.baseurl }}/img/add-products-to-order.jpg
+[create-child-order]: {{ site.baseurl }}/img/create-child-order.jpg
+[client-llama]: {{ site.baseurl }}/img/llama-art.jpg
+[screen-charge]: {{ site.baseurl }}/img/screen-charge.jpg
+[ink-charges]: {{ site.baseurl }}/img/ink-charges.jpg
+[order-notes]: {{ site.baseurl }}/img/order-notes.jpg
+[email-for-addtl-items]: {{ site.baseurl }}/img/email-for-addtl-items.jpg
+[pending-surcharges]: {{ site.baseurl }}/img/wow-so-neat-pending-surcharges.jpg
+[prepared-cart]: {{ site.baseurl }}/img/customer-prepared-cart.jpg
+[changing-order-status]: {{ site.baseurl }}/img/changing-order-status.gif
+[attaching-order-artwork]: {{ site.baseurl }}/img/attaching-a-mockup.gif
+[capture-funds]: {{ site.baseurl }}/img/capture-funds.jpg

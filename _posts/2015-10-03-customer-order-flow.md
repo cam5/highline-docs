@@ -84,12 +84,12 @@ If the user wants to add graphics to their order, they can select a special paym
 
 Whether or not the user indicated that they'd like to add graphic design, the next stage in the process is to learn what information HLN will receive and act on.
 
-[product-page]: /img/product-page.jpg
-[cart-page]: /img/cart-page.jpg
-[product-page-2]: /img/product-page-2.jpg
-[cart-page-2]: /img/cart-page-2.jpg
-[checkout-page]: /img/checkout-page.jpg
-[checkout-page-2]: /img/checkout-page-2.jpg
-[checkout-page-3]: /img/checkout-page-3.jpg
-[confirmation-email]: /img/confirmation-email.jpg
+[product-page]: {{ site.baseurl }}/img/product-page.jpg
+[cart-page]: {{ site.baseurl }}/img/cart-page.jpg
+[product-page-2]: {{ site.baseurl }}/img/product-page-2.jpg
+[cart-page-2]: {{ site.baseurl }}/img/cart-page-2.jpg
+[checkout-page]: {{ site.baseurl }}/img/checkout-page.jpg
+[checkout-page-2]: {{ site.baseurl }}/img/checkout-page-2.jpg
+[checkout-page-3]: {{ site.baseurl }}/img/checkout-page-3.jpg
+[confirmation-email]: {{ site.baseurl }}/img/confirmation-email.jpg
 
