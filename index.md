@@ -5,7 +5,7 @@ title: "HighLine Apparel Shop Documentation"
 
 ## Get Started
 
-The store's development url is: [http://highline-apparel-2.myshopify.com](http://highline-apparel2.myshopify.com)
+The store's development url is: [http://highline-apparel-2.myshopify.com](http://highline-apparel-2.myshopify.com)
 
 * (TL;DR - [How do I log in?]({% post_url 2015-10-03-logging-in %}))
 
