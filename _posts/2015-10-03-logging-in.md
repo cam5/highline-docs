@@ -14,7 +14,7 @@ order: 0
 
 # Log in as an Administrator
 
-The administrative account is used to manage, and add to existing orders. It will most often be used to follow instructions laid out in [Account Manager Order Flow]({% post_url 2015-10-03-account-manager-order-flow %}).
+The administrative account is used to manage, and add to existing orders. It will most often be used to follow instructions laid out in [Account Manager Order Flow]({% post_url 2015-10-04-account-manager-order-flow %}).
 
 ## Accessing The Administrator Log-in Screen
 
