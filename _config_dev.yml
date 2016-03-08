@@ -26,9 +26,6 @@ baseurl: 'http://highline-docs.local/'
 # Dates are not included in permalinks
 permalink: none
 
-# Syntax highlighting
-highlighter: pygments
-
 # Since these are pages, it doesn't really matter
 future: true
 
